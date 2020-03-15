@@ -1,2 +1,0 @@
-# Articles
-Hack The Box
